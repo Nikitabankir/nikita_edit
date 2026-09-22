@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>С днём рождения, папа! 🎂</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="confetti"></div>
+
+    <main class="card">
+        <div class="cake">🎂</div>
+
+        <div class="small-text">Сегодня особенный день</div>
+
+        <h1>С днём рождения,<br><span>Папа!</span></h1>
+
+        <p>
+            Желаю тебе крепкого здоровья, счастья,
+            хорошего настроения и исполнения всех желаний!
+        </p>
+
+        <div class="gift">🎁</div>
+
+        <a class="gift-button"
+           href="https://t.me/happy_papa_birdhay"
+           target="_blank">
+            Получить подарок
+        </a>
+
+        <div class="footer">
+            С любовью ❤️
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
